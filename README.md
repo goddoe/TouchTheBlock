@@ -13,3 +13,6 @@ It is written with javascript with Object-Oriented style.
 + Author: Sung-ju Kim
 + Email : goddoe2@gmail.com
 + github: https://github.com/goddoe
+
+##License
+MIT License
