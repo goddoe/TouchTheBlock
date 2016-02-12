@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" >
+<meta name="description" content="">
+<meta name="author" content="">
+<title>Insert title here</title>
+
+	<!--  css -->
+	<link href="assets/css/gamestate/main.css" rel="stylesheet">
+	<link href="assets/css/global/bootstrap.min.css" rel="stylesheet">
+ 
+	<!-- end css -->
+
+
+	<!-- game framework -->
+  	<script src='assets/js/game/framework/Engine.js'></script>
+    <script src='assets/js/game/framework/BlockManager.js'></script>
+    <script src='assets/js/game/framework/Block.js'></script>
+    <script src='assets/js/game/framework/AppManager.js'></script>
+    <!-- end game framework -->
+    
+<script>
+
+	window.onload = function () {
+		
+		var engine = new Engine();
+		engine.init("gameView");
+		
+	}
+
+</script>
+</head>
+<body>	
+	
+
+	<canvas id="gameView"></canvas>
+  
+</body>
+</html>
