@@ -10,6 +10,6 @@ It is written with javascript with Object-Oriented style.
 ##Have Fun!
 
 ##Author
-Author: Sung-ju Kim
-Email : goddoe2@gmail.com
-github: https://github.com/goddoe
++ Author: Sung-ju Kim
++ Email : goddoe2@gmail.com
++ github: https://github.com/goddoe
