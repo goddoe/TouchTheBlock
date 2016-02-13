@@ -15,4 +15,4 @@ It is written with javascript with Object-Oriented style.
 + github: https://github.com/goddoe
 
 ##License
-MIT License
+> MIT License
